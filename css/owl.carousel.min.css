@@ -9,7 +9,7 @@
     animation-fill-mode: both;
 }
 
-.owl-carousel .owl-animated-in {
+.owl-carousel .owl-animated-in { 
     z-index: 0;
 }
 
